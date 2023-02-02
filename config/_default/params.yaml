@@ -41,14 +41,14 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Me. This work is licensed under {license}'
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: true
+#       allow_commercial: false
 
 # Localization
 
@@ -68,24 +68,26 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
+    enable: false
+    # url: 'https://github.com/<username>/<repository>'
+    # content_dir: content
+    # branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+    enable: false
+    # provider: ''
+    # disqus:
+    #   shortname: ''
+    #   show_count: true
+    # commento:
+    #   url: ''
+    # giscus:
+    #   repo: ''
+    #   repo_id: ''
+    #   category: ''
+    #   category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -94,9 +96,10 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+    enable: false
+    # provider: ''
+    # api_key: ''
+    # zoom: 15
 
 # Extensions
 
