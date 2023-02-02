@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: JINGRUI XING@PKU
+title: 
 date: 2023-2-2
 type: landing
 
