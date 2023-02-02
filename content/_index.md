@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: JINGRUI XING@PKU
-date: 2022-10-24
+date: 2023-2-2
 type: landing
 
 sections:
@@ -174,7 +174,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications
