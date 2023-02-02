@@ -22,7 +22,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is physical simulation in computer graphics.
+bio: My research interests lie in physical simulation in computer graphics.
 
 # Interests to show in About widget
 interests:
