@@ -19,7 +19,7 @@ role: Undergraduate of Peking University
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Peking University
-    url: https://pku.edu.cn/
+    url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is physical simulation in computer graphics.
@@ -48,9 +48,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:xjr01@hotmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -73,6 +73,10 @@ social:
   #   icon_pack: ai
   #   link: uploads/resume.pdf
 
+avatar:
+  gravatar: false
+  shape: circle
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'xjr01@hotmail.com'
 
@@ -80,5 +84,5 @@ email: 'xjr01@hotmail.com'
 highlight_name: true
 ---
 
-I am an undergraduate in School of Eletronics Engineering and Computer Science, Peking University, advised by Prof. Baoquan Chen. My research interest is physical simulation in computer graphics. I am particularly interest in simulating all kinds of natural phenomena like fluids, solids, elastic bodies, etc. and their applications in movies and games.
+I am an undergraduate of the School of Electronics Engineering and Computer Science, Peking University, advised by Prof. Baoquan Chen. My research interests lie in physical simulation in computer graphics. I am particularly interested in simulating natural phenomena like fluids, solids, and elastic bodies and their applications in movies and games.
 {style="text-align: justify;"}
